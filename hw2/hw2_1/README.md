@@ -1,7 +1,5 @@
 # CPSC-8430-Deep-Learning-HW2
 
-**HW2**
-
 
 **Top 4 models are created in the folders: model1, model2, model3, model4**
 
