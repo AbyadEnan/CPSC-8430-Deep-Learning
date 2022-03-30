@@ -1,6 +1,6 @@
-##########DL-HW-2#################
-#Code written by M Sabbir Salek
-#Date: March 18, 2022
+######HW-2#########
+#author Abyad Enan
+#March 21, 2022
 
 
 import json
