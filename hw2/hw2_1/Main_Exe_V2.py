@@ -1,6 +1,9 @@
-######HW-2#########
-#author Abyad Enan
-#March 21, 2022
+# -*- coding: utf-8 -*-
+"""
+Created on Mon Mar 14 17:02:01 2022
+
+@author: abyad
+"""
 
 
 import json
