@@ -1,6 +1,9 @@
-##########DL-HW-2#################
-#Code written by M Sabbir Salek
-#Date: March 18, 2022
+# -*- coding: utf-8 -*-
+"""
+Created on Mon Mar 14 17:02:01 2022
+
+@author: abyad
+"""
 
 
 import json
